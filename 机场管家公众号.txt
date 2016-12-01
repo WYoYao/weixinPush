@@ -1,0 +1,10 @@
+#######################机场管家#######################
+appid = wxf7d5e1ed0d7f3dfb
+appsecrect = e4a0661b9832a4d25f16e53f377debf0
+token = jyardg1409801456
+
+
+{
+    "access_token": "Reduf2F_blUOZQ7RC5oG6gENO92WbCWJpiFQlCj7N1I_jh389nxNZaqSxE6O9dbz7qYWGb7mR53SP7sEZxl9Dxowb78_DakcvfFAXFbXMsEVODgAFAMFU", 
+    "expires_in": 7200
+}
